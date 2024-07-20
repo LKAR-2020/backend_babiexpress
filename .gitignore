@@ -1,0 +1,18 @@
+# Environnements virtuels
+venv/
+babiexpress/
+env/
+
+# Fichiers Python
+*.pyc
+__pycache__/
+
+# Dossiers Django
+db.sqlite3
+
+# Logs et systèmes de cache
+*.log
+*.cache
+
+# Fichiers spécifiques à macOS
+.DS_Store
