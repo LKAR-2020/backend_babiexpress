@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework',
     'rest_framework.authtoken',  # Pour utiliser des tokens pour l'authentification
+    'user',
+    'deliveries',  
 ]
 
 REST_FRAMEWORK = {
